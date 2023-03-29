@@ -24,3 +24,7 @@
 ### List all functions
 
 - afl
+
+### Print what is inside register
+
+pf z @[register name]
