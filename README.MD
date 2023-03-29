@@ -15,3 +15,8 @@
 
 1. pdf ( or pdr if in debug mode)
 2. afn [function_name]
+
+### Renaming variables
+
+1. pdf - show function
+2. afvn [var name in asm] [personal var name]
