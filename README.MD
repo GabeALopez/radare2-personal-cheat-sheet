@@ -13,7 +13,7 @@
 
 ### Renaming functions
 
-1. pdf ( or pdr if in debug mode)
+1. pdf ( or pdr if in debug mode) @ [address of function]
 2. afn [function_name]
 
 ### Renaming variables
