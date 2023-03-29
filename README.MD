@@ -20,3 +20,7 @@
 
 1. pdf - show function
 2. afvn [var name in asm] [personal var name]
+
+### List all functions
+
+- afl
