@@ -28,3 +28,7 @@
 ### Print what is inside register
 
 pf z @[register name]
+
+### Show a pseudocode version of code in a c-like syntx
+
+- pdc
