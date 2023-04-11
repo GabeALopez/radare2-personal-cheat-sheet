@@ -1,4 +1,4 @@
-# Personal Cheet Sheet
+# Personal Cheat Sheet
 
 ## Debugging
 
