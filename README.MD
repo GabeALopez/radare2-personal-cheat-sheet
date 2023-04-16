@@ -2,6 +2,10 @@
 
 ## Debugging
 
+### When Opening Binary
+
+r2 -d ./[nameOfFile]
+
 ### Break, Start, run, and then run again
 
 1. db main
