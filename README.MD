@@ -32,3 +32,23 @@ pf z @[register name]
 ### Show a pseudocode version of code in a c-like syntx
 
 - pdc
+
+### Saving and Loading Projects
+
+#### Saving
+
+Ps [fileName]
+
+#### Loading
+
+Po [fileName]
+
+#### Listing Projects
+
+P
+
+#### Delete Projects
+
+Pd [fileName]
+
+
