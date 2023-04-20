@@ -13,6 +13,12 @@ r2 -d ./[nameOfFile]
 3. ood
 4. ood (To start again)
 
+###Stepping through binary
+
+F7 - step
+F8 - step over
+. - gets back to the instruction pointer
+
 ## Some Usage
 
 ### Renaming functions
