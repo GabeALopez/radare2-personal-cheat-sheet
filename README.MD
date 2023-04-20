@@ -19,6 +19,11 @@ r2 -d ./[nameOfFile]
 - F8 - step over
 - . - gets back to the instruction pointer
 
+### How to add more stack info
+
+1. Hit ':'
+2. e stack.size = 256
+
 ## Some Usage
 
 ### Renaming functions
